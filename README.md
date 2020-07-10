@@ -1,6 +1,6 @@
 # Mod_3_project
 
-# Medical Appointment No Shows
+# Medical Appointments No-Shows
 Flatiron Module 3 Classification Project
 
 # Project Overview
