@@ -25,7 +25,7 @@ We spent several hours cleaning the data using Pandas Dataframes and Series to p
 We ran several statistical tests on the data using scipy. To see the statistical significance of the various features. This guided our feature select process.
 ## Visualizing our insights using Seaborn and Matplotlib
 We  explored our data and provided various visualizations for the statistical tests carried out and also to gain more insight on the factors we considered to have an effect on the target variable (no-show)
-## Engineering Features for my model
+## Engineering Features for the model
 We  created new features from the information in the data. We were able to explore the engineered features and run statistical tests on them to verify its significance and also saw improvements on our models
 ## Modelling 
 We test our data across several models, they include
