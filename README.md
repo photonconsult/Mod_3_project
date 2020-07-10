@@ -36,7 +36,7 @@ We test our data across several models, they include
 * Xgboost
  
 ## Conclusion
-We were able to improve on the dummy classifier accuracy, given the class imbalance we got a pretty high F1 score at
+We were able to improve on the dummy classifier accuracy, given the class imbalance we got a pretty high F1 score at about 0.89
 ## Moving Forward
 One of the limitations we discovered exploring the data is the time frame the data spans.The appointment days span just over a month, making predictions difficult since this data is just a snapshot of the patients patterns. Also the appointment exact times were not available which could have been very useful in predictions. In addition more context was needed for certain features to better explain, example; SMS received. Finally context to the reason for the appointment would have been also a helpful tool.
 ## Presentation
