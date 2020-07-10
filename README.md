@@ -41,3 +41,4 @@ We were able to improve on the dummy classifier accuracy, given the class imbala
 One of the limitations we discovered exploring the data is the time frame the data spans.The appointment days span just over a month, making predictions difficult since this data is just a snapshot of the patients patterns. Also the appointment exact times were not available which could have been very useful in predictions. In addition more context was needed for certain features to better explain, example; SMS received. Finally context to the reason for the appointment would have been also a helpful tool.
 ## Presentation
 
+https://github.com/photonconsult/Mod_3_project/blob/master/photon%20presentation%20-%20mod%203.pdf
